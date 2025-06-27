@@ -223,6 +223,10 @@ La configuración actual del entorno de despliegue presenta deficiencias importa
 <div style="page-break-after: always;"></div>
 
 ## 12. ANEXOS
+### Repositorio GitHub 
+Se trabajo en el siguiente repositorio
+
+https://github.com/JhonnyARM/AS_U3_EXAMEN_PRACTICO
 ### Evidencia de instalacion y dificultades
 #### Problemas al instalar
 Problema de configuracion en un texto
